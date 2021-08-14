@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-hingale-b17b14195/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Abhishek-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/16664495/abhishek-hingale-)
@@ -20,7 +20,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=abhi-hat&theme=react-dark&area=true)
 <!--
-**Abhi-HAT/Abhishek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Abhi-HAT/Abhish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
