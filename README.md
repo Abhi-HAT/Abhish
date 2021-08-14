@@ -1,4 +1,5 @@
 ### Hi Developers 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=Abhi-HAT)
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCsETFYZ1t817t4jtnj6lM3Q)
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-hingale-b17b14195/)
