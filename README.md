@@ -22,7 +22,7 @@ Languages and Tools:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhideveloper1998)
 <!--
 **Abhi-HAT/Abhish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Github stats](https://github-readme-stats.vercel.app/api?username=abhideveloper1998)
+![Github stats](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
 
 Here are some ideas to get you started:
 
