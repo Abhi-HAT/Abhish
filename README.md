@@ -1,6 +1,6 @@
 ### Hi Developers 👋
 [![YouTube Badge](https://img.shields.io/badge/YouTube-TECHABHI-red)](https://www.youtube.com/channel/UCsETFYZ1t817t4jtnj6lM3Q)
-[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=](https://www.linkedin.com/in/abhishek-hingale-b17b14195/)
+[![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/abhishek-hingale-b17b14195/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Abhishek-green)](https://www.aakash.me)
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Abhishek-yellow)](https://stackoverflow.com/users/16664495/abhishek-hingale-)
 
