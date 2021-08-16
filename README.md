@@ -18,15 +18,10 @@ Languages and Tools:
 
 ![Git stats](https://activity-graph.herokuapp.com/graph?username=abhideveloper1998&theme=react-dark&area=true)
 
-
-
-
 **AbhiDeveloper1998/Abhish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
+![Github stats](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
 
-
-
-Here are some ideas to get you started:
+ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
