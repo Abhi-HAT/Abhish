@@ -19,7 +19,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=abhideveloper1998&theme=react-dark&area=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Abhi-HAT)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AbhiDeveloper1998)
 <!--
 **Abhi-HAT/Abhish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Abhi-HAT)
