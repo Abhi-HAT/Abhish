@@ -1,4 +1,4 @@
-![Github stats](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
+![Github](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
 
 ### Hi Developers 👋
 [![YouTube Badge](https://img.shields.io/badge/YouTube-TECHABHI-red)](https://www.youtube.com/channel/UCsETFYZ1t817t4jtnj6lM3Q)
