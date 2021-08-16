@@ -17,7 +17,7 @@ Languages and Tools:
 ![](https://activity-graph.herokuapp.com/graph?username=abhideveloper1998&theme=react-dark&area=true)
 
 **AbhiDeveloper1998/Abhish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[a link](README.md)
+[](https://github.com/AbhiDeveloper1998/Abhish/blob/84fc7f312dbcab4dc559e93b19025074f232a382/README.md)
 
 Here are some ideas to get you started:
 
