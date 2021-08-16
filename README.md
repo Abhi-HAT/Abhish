@@ -20,9 +20,12 @@ Languages and Tools:
 
 [GitHub](http://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
 ![Github stats](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
-<!--
+
 **Abhi-HAT/Abhish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Github stats](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
+
+
+
 
 Here are some ideas to get you started:
 
@@ -34,4 +37,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: .....
--->
+
