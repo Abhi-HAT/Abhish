@@ -1,3 +1,5 @@
+![Github stats](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
+
 ### Hi Developers 👋
 [![YouTube Badge](https://img.shields.io/badge/YouTube-TECHABHI-red)](https://www.youtube.com/channel/UCsETFYZ1t817t4jtnj6lM3Q)
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link)](https://www.linkedin.com/in/abhishek-hingale-b17b14195/)
@@ -19,7 +21,6 @@ Languages and Tools:
 ![Git stats](https://activity-graph.herokuapp.com/graph?username=abhideveloper1998&theme=react-dark&area=true)
 
 **AbhiDeveloper1998/Abhish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Github stats](https://github.com/AbhiDeveloper1998/Abhish/blob/e35e451d521b807ca321800e38cdeb0b6e3b7af8/README.md)
 
  Here are some ideas to get you started:
 
